@@ -30,14 +30,14 @@ assets:
   - {seq: 7, filename: KR4d0450_007.yaml, hash: 'sha256:14cce0a7bd9a3555962aa3bde4fc420bc862f810f0f8fb2b950422927ad0ef2e'}
   - {seq: 8, filename: KR4d0450_008.yaml, hash: 'sha256:af4f4463cd06fc9615cbd79d5d89ff1b2835710651406df758c8081e9e21db82'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR4d0450_000.markers.yaml, hash: 'sha256:3b6569d37ed89050eca31c25ff45f1249e32f0a16997e1c499cbf3fb1459d216'}
+  - {seq: 0, role: markers, filename: assets/KR4d0450_000.markers.yaml, hash: 'sha256:d35b55b1e2eda7bb67e567caa09319b76cea4f5d3027248e82074b1a1adb0363'}
   - {seq: 1, role: markers, filename: assets/KR4d0450_001.markers.yaml, hash: 'sha256:cbc5e3873e0dd8e1a27ec2cd482ea4f9304b8bd451e0bcb2856971cbba59c557'}
   - {seq: 2, role: markers, filename: assets/KR4d0450_002.markers.yaml, hash: 'sha256:83d12d22b0e95d8c0fbeddb8df6b0edabe89dc0840402304138254dc6a8b4406'}
   - {seq: 3, role: markers, filename: assets/KR4d0450_003.markers.yaml, hash: 'sha256:06306dc2411b9113c671767bbbd0f81b9edc9c7b110407025373fe2d95d98baa'}
   - {seq: 4, role: markers, filename: assets/KR4d0450_004.markers.yaml, hash: 'sha256:e58d27f46d6c7bd515ef41f3350c719aa68993894f3f359becbd1d30e8b4b995'}
   - {seq: 5, role: markers, filename: assets/KR4d0450_005.markers.yaml, hash: 'sha256:1cc38f0c909d84cab8005fb57c188433ce048f84efcd2e497b2020a3c8ad5b59'}
-  - {seq: 6, role: markers, filename: assets/KR4d0450_006.markers.yaml, hash: 'sha256:3fc839581b76ab32162cc9b5f5f465e102401e5cc02ae4743e7a492b7caa20c4'}
-  - {seq: 7, role: markers, filename: assets/KR4d0450_007.markers.yaml, hash: 'sha256:ea05e1ee9d4c8b5de37644d342050bf309f9d9f6359c2bb403a3c02ac2158c6c'}
+  - {seq: 6, role: markers, filename: assets/KR4d0450_006.markers.yaml, hash: 'sha256:b2738bbf41c8eb1a6cc670c7694e53669d873c2d7f4822f318cd2edbf3061112'}
+  - {seq: 7, role: markers, filename: assets/KR4d0450_007.markers.yaml, hash: 'sha256:1315618e44802bad9c6cd44db2d0f003cc0f0a0910f3d8995953894187e2482a'}
   - {seq: 8, role: markers, filename: assets/KR4d0450_008.markers.yaml, hash: 'sha256:2c2ea39cdee2956875ec40a4c1e88264a1a8973cbbcedb2cda56c3e708b20fcc'}
 table_of_contents:
 - ref:
@@ -130,7 +130,7 @@ table_of_contents:
   label: 天隱禪師文集序
   type: section
   level: 1
-hash: sha256:1120e4317b8991d0b00feba2b0531158d139cf982a9f0df884cfdec7f4ba294c
+hash: sha256:10233adc3eeb9836fe783d8b6417c426f91930f413a5f8c9e7e007d24cff6340
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
